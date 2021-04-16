@@ -8,8 +8,6 @@ Gastric malignancy - one of the five most deadliest types of cancer - exceeds an
 
 ![data](https://user-images.githubusercontent.com/51257384/114698550-dad62d00-9d3c-11eb-911d-0203b4c37bb0.png)
 
-To use the dataset, go to this link in Kaggle: https://www.kaggle.com/linjustin/train-val-test-tcga-coad-msi-mss
-
-Please cite the original contribution:
+Please cite the original dataset:
 
 Kather, Jakob Nikolas, et al. "Deep learning can predict microsatellite instability directly from histology in gastrointestinal cancer." Nature medicine 25.7 (2019): 1054-1056.
